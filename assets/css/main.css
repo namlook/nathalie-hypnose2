@@ -3457,6 +3457,20 @@
 			min-height: 30rem;
 		}
 
+		.panel {
+			color: #fff;
+		}
+
+		#nath-photo {
+			background: #000;
+		}
+
+		#nath-photo img {
+			width: 150%;
+			opacity: 0.8;
+		}
+
+
 	}
 
 /* Page Wrapper */
